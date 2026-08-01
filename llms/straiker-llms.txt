@@ -1,0 +1,30 @@
+# Straiker
+
+> Straiker is AI-native security for agentic AI, protecting every layer from prompts to infrastructure with 99% detection accuracy.
+
+## About
+
+Straiker attacks to defend, using autonomous AI threat detection to expose vulnerabilities before adversaries do and agentic runtime security to stop threats the moment they emerge. Founded by security veterans from Palo Alto Networks, the company protects every AI agent you build or buy—from copilots to AI assistants and multi-agent workflows—with a closed-loop system that delivers sub-second threat response.
+
+## Products/Services
+
+### Ascend AI
+Autonomous AI threat detection that integrates into CI/CD pipelines to continuously test agents for vulnerabilities like prompt injection, tool manipulation, and data leakage. Exposes security issues before adversaries can exploit them, giving teams confidence to deploy live with comprehensive AI protection across their entire agent ecosystem.
+URL: https://www.straiker.ai/products/ascend-ai
+
+### Defend AI
+Agentic runtime security that stops threats the moment they emerge in production. Built on proprietary LLM judges and original security research, it reads behavioral signals across models, tools, identity, and infrastructure, blocking attacks in real-time with sub-second latency.
+URL: https://www.straiker.ai/products/defend-ai
+
+## Key Pages
+
+- About: https://www.straiker.ai/about
+- Contact: https://www.straiker.ai/contact
+- Blog: https://www.straiker.ai/blog
+- Resources: https://www.straiker.ai/resources
+- Careers: https://www.straiker.ai/careers
+- Research: https://www.straiker.ai/research
+
+## Target Audience
+
+Security teams at enterprises deploying AI agents, particularly in healthcare, financial services, high-tech, and direct-to-consumer industries. Also serves AI engineering teams building agents who need comprehensive security that scales with their deployment velocity. Focus on organizations that need confidence to deploy fast and scale safely.
