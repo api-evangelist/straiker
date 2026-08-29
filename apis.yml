@@ -12,6 +12,9 @@ description: 'Straiker is an AI-native security company for agentic AI, founded 
   Lightspeed Venture Partners. Its developer documentation and API/SDK integration
   surface are gated behind an enterprise access code; there is no public API reference.'
 url: https://raw.githubusercontent.com/api-evangelist/straiker/refs/heads/main/apis.yml
+x-api-posture: docs-gated
+x-api-posture-basis: observed
+x-api-posture-note: "Its developer documentation and API/SDK integration surface are gated behind an enterprise access code; there is no public API reference."
 deliveryModel:
   model: saas
   open_source: false
