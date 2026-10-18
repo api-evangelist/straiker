@@ -1,0 +1,24 @@
+generated: '2026-10-18'
+method: searched
+checked:
+- kong/integrations/kong-integration-edges.yml
+source:
+- kong/integrations/kong-integration-edges.yml
+edges:
+- partner_name: Kong (own)
+  partner: kong
+  partner_match: mirror
+  mirror_match: domain
+  type: marketplace
+  relationship: platform-app
+  direction: third-party
+  channel: partner-built
+  marketplace: own
+  evidence: https://developer.konghq.com/plugins/straiker-coding-agent-buffered/
+  mirror_of: kong/integrations/kong-integration-edges.yml
+  apps:
+  - Straiker
+  listing_count: 1
+  detected: '2026-10-18'
+  detected_by: mirror-platform-listings.py
+  category: Kong Plugin Hub
